@@ -1,1 +1,2 @@
-# self-supervised-learning-for-semantic-segmentation
+# SSL4DP
+Self-supervised Learning for Dense Prediction
